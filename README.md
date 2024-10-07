@@ -6,6 +6,8 @@ In this study, we utilize a dataset of 9,000 companies, focusing on their rating
 # K-Means clustering
 K-means clustering is a popular unsupervised machine learning algorithm that aims to group similar data points together in a dataset. The algorithm takes in a dataset and the desired number of clusters (k), then it randomly selects k data points to serve as the initial centroids for the clusters. It then assigns each data point in the dataset to the nearest centroid, creating k clusters.
 
+
+
 In this Company Clustering project, the goal is to group 9,000 companies based on their ratings and various characteristics to uncover patterns related to performance, customer satisfaction, and trends within different industries. By identifying these clusters, you can gain insights into how companies with similar traits behave, which could be valuable for market segmentation, competitive analysis, and strategic decision-making.
 
 # Key Steps:
