@@ -32,3 +32,5 @@ Interpretation and Insights:
 
 Analyze the common characteristics of each cluster (e.g., a group of companies with high ratings but low revenue).
 Identify any emerging industry trends or patterns in customer satisfaction and performance.
+
+----To see the complete video explanation on this topic, check out the following link:
